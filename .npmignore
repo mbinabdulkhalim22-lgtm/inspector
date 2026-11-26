@@ -1,4 +1,4 @@
-# npm pack uses .npmignore instead of .gitignore when this file exists.
+ # npm pack uses .npmignore instead of .gitignore when this file exists.
 # Built artifacts are whitelisted via package.json "files".
 
 node_modules
