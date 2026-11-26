@@ -1,4 +1,4 @@
-[
+ [
   {
     "prompt": "What is the difference between the launcher-driven run scripts and starting a client directly, and when should I use each?",
     "expect": "local-dev"
