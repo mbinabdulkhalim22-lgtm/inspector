@@ -1,4 +1,4 @@
-[
+ [
   {
     "prompt": "Move the board card for issue 2189 to In Review.",
     "expect": "board-ops"
