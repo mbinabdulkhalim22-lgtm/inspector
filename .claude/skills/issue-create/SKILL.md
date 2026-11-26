@@ -1,4 +1,4 @@
----
+ ---
 name: issue-create
 description: Create a tracked issue in this repo end to end — version label, type label, milestone, board card, Status and Priority. Use when asked to file, create, open or raise an issue; when picking its labels or its milestone; when checking whether one already exists; or when work discovered mid-task needs an issue of its own.
 disable-model-invocation: false
