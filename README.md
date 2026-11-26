@@ -1,4 +1,4 @@
-# MCP Inspector
+ # MCP Inspector
 
 A developer tool for inspecting [Model Context Protocol](https://modelcontextprotocol.io) (MCP) servers. It ships as a single package, `@modelcontextprotocol/inspector`, that provides four ways to inspect a server:
 
