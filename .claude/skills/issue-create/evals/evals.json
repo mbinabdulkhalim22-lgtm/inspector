@@ -1,4 +1,4 @@
-[
+ [
   {
     "prompt": "Create an issue titled 'TUI crashes on an empty catalog' and set it up the way this repo wants.",
     "expect": "issue-create"
