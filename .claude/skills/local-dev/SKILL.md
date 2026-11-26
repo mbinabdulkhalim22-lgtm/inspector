@@ -1,4 +1,4 @@
----
+ ---
 name: local-dev
 description: Install, build and run the Inspector locally, and place a dependency correctly. Use when starting the web, cli, tui or launcher client; when asking whether a build or rebuild is needed before a run script works; when an install, an @inspector/core import or a client bundle fails at run time; when adding or bumping a dependency and choosing which package.json declares it; or when a bundler external, a version skew or a git worktree is the suspect.
 disable-model-invocation: false
